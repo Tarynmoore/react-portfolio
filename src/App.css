@@ -1,0 +1,47 @@
+* {
+    background-color: #dcb494;
+    font-family: Didot, serif;
+
+}
+
+ul {
+    font-size: 20px;
+    display: flex;
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 3em;
+}
+
+.line {
+    border-bottom: 1px solid black;
+    padding: 0 30 0 30 
+}
+
+.format {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.form {
+    margin-left: 2rem;
+    margin: 2rem 5rem 0 2rem;
+}
+
+.contactButton {
+    margin-left: 2em;
+    margin-top: 1em;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.fontContact {
+    font-size: larger;
+}
