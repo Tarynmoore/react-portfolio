@@ -19,7 +19,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           About Me
         </a>
       </li>
-      <li className="nav-item">
+      <li className="vl nav-item">
         <a
           style={styles.text}
           href="#contact"
@@ -29,7 +29,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Contact
         </a>
       </li>
-      <li className="nav-item">
+      <li className="vl nav-item">
         <a
           style={styles.text}
           href="#portfolio"
@@ -39,7 +39,7 @@ function NavTabs({ currentPage, handlePageChange }) {
           Portfolio
         </a>
       </li>
-      <li className="nav-item">
+      <li className="vl nav-item">
         <a
           style={styles.text}
           href="#resume"

@@ -4,17 +4,49 @@
 
 }
 
+/* Navbar Css */
 ul {
     font-size: 20px;
     display: flex;
 }
 
+.vl {
+    border-left: 1px solid black;
+    height: 5%;
+}
+
+/* footer CSS */
+.footerLine {
+    border-top: 1px solid black;
+    padding: 15 30 30 30 
+}
+
+.footer {
+  
+    position:absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.footStyle {
+    display: flex; 
+    justify-content: center;
+    margin: 5px;
+}
+
+.footButton {
+    border: none;
+}
+
+/* About me page CSS */
 .name {
     display: flex;
     align-items: center;
     justify-content: center;
     font-weight: 400;
     font-size: 3em;
+    margin-bottom: 1em;
 }
 
 .line {
@@ -26,10 +58,10 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-    flex-wrap: wrap;
     text-align: center;
 }
 
+/* Contact page CSS */
 .form {
     margin-left: 2rem;
     margin: 2rem 5rem 0 2rem;

@@ -3,13 +3,6 @@ import { useState } from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
-
-
-// function Contact(props) {
-//     const [contact,]
-// }
-
-
 function Contact() {
     // sets the state of the inputs for the contact form
     const [fullName, setFullName] = (useState(''));
