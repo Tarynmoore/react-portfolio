@@ -22,8 +22,7 @@ ul {
 }
 
 .footer {
-  
-    position:absolute;
+    position: sticky;
     left: 0;
     right: 0;
     bottom: 0;
@@ -76,4 +75,9 @@ ul {
 
 .fontContact {
     font-size: larger;
+}
+
+/* Portfolio CSS */
+.cardStyle {
+    text-align: center;
 }
