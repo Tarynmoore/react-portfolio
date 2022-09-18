@@ -9,11 +9,13 @@ import Col from 'react-bootstrap/Col';
 export default function AboutMe() {
     return (
         <div>
+            <Row xs={12}>
             <h1 className="line name">Hi, I'm Taryn Moore</h1>
+            </Row>
             <Container >
 
                 <Row className="format">
-                    <Col>
+                    <Col xs={12}>
                         <h3>Welcome,</h3>
                         <p>I have spent the past few months furthering my knowledge on frontend and
                             backend web development. When I am not spending my time studying
