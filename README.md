@@ -1,5 +1,5 @@
 # My React Porfolio
-Github: 
+Github: https://github.com/Tarynmoore/react-portfolio
 
 ## Description
 Welcome to my react portfolio. This portfolio displays project's I've worked on along with their links.
