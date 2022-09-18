@@ -20,3 +20,6 @@ Then run
 npm start
 ```
 To start the application. 
+
+[Untitled_ Sep 18, 2022 2_33 PM.webm](https://user-images.githubusercontent.com/101439331/190927172-810fc21a-3d60-480d-aad7-ffcaabcddebd.webm)
+
